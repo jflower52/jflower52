@@ -1,28 +1,15 @@
+<!--타이틀 부분-->
 <h3 align="center">😎 Hojun's GitHub 😎</h3>
 
 <br />
 
-<h4 align="center">📫 Velog &amp; Email 📫</h4>
-
+<h5 align="center">📫 Velog &amp; Email 📫</h5>
 <div align="center">
-
-  <a href="https://velog.io/@jflower"
-     title="https://velog.io/@jflower"
-     target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Velog_logo.svg"
-         alt="Velog"
-         width="32"
-         height="32"
-         style="margin: 0 12px;" />
+  <a href="https://velog.io/@jflower">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-
-  <a href="mailto:jflower0502@gmail.com"
-     title="jflower0502@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg"
-         alt="Email"
-         width="32"
-         height="32"
-         style="margin: 0 12px;" />
+  <a href="mailto:jflower0502@gmail.com">
+    <img
+      src="https://img.shields.io/badge/jflower0502@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-
 </div>
