@@ -1,10 +1,9 @@
 <!-- 타이틀 -->
-<h3 align="center">✨️ Hojun's GitHub ✨️</h3>
-
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💚 Velog & Email ❤️ </h2>    
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=3c3c3c&height=120&text=✨️%20Hojun's%20GitHub%20✨️&animation=&fontColor=8badfe&fontSize=40" />
 </div>
-<br />
+
+<br>
 
 <!-- 내용 -->
 <h5 align="center">💚 Velog & Email ❤️</h5>
