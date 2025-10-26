@@ -9,14 +9,14 @@
   <a href="https://velog.io/@jflower">
     <img
       src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"
-      height="24"
+      height="20"
       alt="Velog"
     />&nbsp
   </a>
   <a href="mailto:jflower0502@gmail.com">
     <img
       src="https://img.shields.io/badge/jflower0502@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      height="24"
+      height="20"
       alt="Email"
     />&nbsp
   </a>
