@@ -4,7 +4,7 @@
 <br>
 
 <!-- 내용 -->
-<h2 align="center">📫 Velog & Email 📫</h2>
+<h4 align="center">📫 Velog & Email 📫</h4>
 <div align="center">
   <a href="https://velog.io/@jflower">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
