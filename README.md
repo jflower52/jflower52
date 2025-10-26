@@ -1,5 +1,5 @@
 <!-- 메인 -->
-<h3 align="center">😎 호준의 깃허브 😎</h3>
+<h3 align="center">😎 Hojun's GitHub 😎</h3>
 
 <br>
 
