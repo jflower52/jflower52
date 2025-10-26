@@ -4,7 +4,7 @@
 <br />
 
 <!-- 내용 -->
-<h5 align="center">💚 Velog &amp; Email ❤️</h5>
+<h5 align="center">💚 Velog & Email ❤️</h5>
 <div align="center">
   <a href="https://velog.io/@jflower">
     <img
