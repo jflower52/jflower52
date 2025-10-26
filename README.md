@@ -1,10 +1,10 @@
 <!-- 타이틀 -->
-<h3 align="center">😎 Hojun's GitHub 😎</h3>
+<h3 align="center">✨️ Hojun's GitHub ✨️</h3>
 
 <br />
 
 <!-- 내용 -->
-<h5 align="center">📫 Velog &amp; Email 📫</h5>
+<h5 align="center">💚 Velog &amp; Email ❤️</h5>
 <div align="center">
   <a href="https://velog.io/@jflower">
     <img
